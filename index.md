@@ -5,6 +5,8 @@
  #[Logistic Regression](LogisticRegression.md)
 
 
+{% include toc.html html=content %}
+
 
 
 
