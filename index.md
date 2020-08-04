@@ -7,7 +7,7 @@
 
 {% include toc.html html=content %}
 
-
+{{ content }}
 
 
 
